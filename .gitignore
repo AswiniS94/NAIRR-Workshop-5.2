@@ -1,0 +1,13 @@
+# Ignore datasets
+hands_on_5.2/Case_Study_03_Autonomous_Driving/data/QA_dataset_nus/
+hands_on_5.2/Case_Study_03_Autonomous_Driving/data/nuscenes/
+
+# Ignore generated multi-frame files
+hands_on_5.2/Case_Study_03_Autonomous_Driving/data/multi_frame/image_id.json
+hands_on_5.2/Case_Study_03_Autonomous_Driving/data/multi_frame/multi_frame_*.json
+
+# Ignore result outputs
+hands_on_5.2/Case_Study_03_Autonomous_Driving/multi_frame_results/*
+
+# Keep only placeholder if desired
+!hands_on_5.2/Case_Study_03_Autonomous_Driving/multi_frame_results/.gitkeep
