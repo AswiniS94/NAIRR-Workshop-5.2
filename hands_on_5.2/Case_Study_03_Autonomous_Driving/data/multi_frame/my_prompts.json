@@ -1,0 +1,78 @@
+[
+      [
+            {
+                  "Q": "What object would consider <c4,CAM_BACK_RIGHT,120.3,640.8> to be most relevant to its decision?",
+                  "A": "<c3,CAM_BACK,900.0,539.2>.",
+                  "C": null,
+                  "con_up": null,
+                  "con_down": null,
+                  "cluster": null,
+                  "layer": null
+            },
+            {
+                  "CAM_FRONT": "data/nuscenes/samples/CAM_FRONT/n015-2018-07-18-11-50-34+0800__CAM_FRONT__1531886000512465.jpg",
+                  "CAM_FRONT_LEFT": "data/nuscenes/samples/CAM_FRONT_LEFT/n015-2018-07-18-11-50-34+0800__CAM_FRONT_LEFT__1531886000504844.jpg",
+                  "CAM_FRONT_RIGHT": "data/nuscenes/samples/CAM_FRONT_RIGHT/n015-2018-07-18-11-50-34+0800__CAM_FRONT_RIGHT__1531886000520339.jpg",
+                  "CAM_BACK": "data/nuscenes/samples/CAM_BACK/n015-2018-07-18-11-50-34+0800__CAM_BACK__1531886000537525.jpg",
+                  "CAM_BACK_LEFT": "data/nuscenes/samples/CAM_BACK_LEFT/n015-2018-07-18-11-50-34+0800__CAM_BACK_LEFT__1531886000547423.jpg",
+                  "CAM_BACK_RIGHT": "data/nuscenes/samples/CAM_BACK_RIGHT/n015-2018-07-18-11-50-34+0800__CAM_BACK_RIGHT__1531886000527893.jpg"
+            }
+      ],
+	  [
+            {
+                  "Q": "What is the future state of <c1,CAM_BACK,1148.3,522.5>?",
+                  "A": "Stationary.",
+                  "C": null,
+                  "con_up": null,
+                  "con_down": null,
+                  "cluster": null,
+                  "layer": null
+            },
+            {
+                  "CAM_FRONT": "data/nuscenes/samples/CAM_FRONT/n008-2018-09-18-13-41-50-0400__CAM_FRONT__1537293297762404.jpg",
+                  "CAM_FRONT_LEFT": "data/nuscenes/samples/CAM_FRONT_LEFT/n008-2018-09-18-13-41-50-0400__CAM_FRONT_LEFT__1537293297754799.jpg",
+                  "CAM_FRONT_RIGHT": "data/nuscenes/samples/CAM_FRONT_RIGHT/n008-2018-09-18-13-41-50-0400__CAM_FRONT_RIGHT__1537293297770482.jpg",
+                  "CAM_BACK": "data/nuscenes/samples/CAM_BACK/n008-2018-09-18-13-41-50-0400__CAM_BACK__1537293297787558.jpg",
+                  "CAM_BACK_LEFT": "data/nuscenes/samples/CAM_BACK_LEFT/n008-2018-09-18-13-41-50-0400__CAM_BACK_LEFT__1537293297797405.jpg",
+                  "CAM_BACK_RIGHT": "data/nuscenes/samples/CAM_BACK_RIGHT/n008-2018-09-18-13-41-50-0400__CAM_BACK_RIGHT__1537293297778113.jpg"
+            }
+      ],
+	  [
+            {
+                  "Q": "What actions taken by the ego vehicle can lead to a collision with <c5,CAM_FRONT,980.0,475.0>?",
+                  "A": "Slight right turn.",
+                  "C": null,
+                  "con_up": null,
+                  "con_down": null,
+                  "cluster": null,
+                  "layer": null
+            },
+            {
+                  "CAM_FRONT": "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535574041012404.jpg",
+                  "CAM_FRONT_LEFT": "data/nuscenes/samples/CAM_FRONT_LEFT/n008-2018-08-29-16-04-13-0400__CAM_FRONT_LEFT__1535574041004799.jpg",
+                  "CAM_FRONT_RIGHT": "data/nuscenes/samples/CAM_FRONT_RIGHT/n008-2018-08-29-16-04-13-0400__CAM_FRONT_RIGHT__1535574041020482.jpg",
+                  "CAM_BACK": "data/nuscenes/samples/CAM_BACK/n008-2018-08-29-16-04-13-0400__CAM_BACK__1535574041037558.jpg",
+                  "CAM_BACK_LEFT": "data/nuscenes/samples/CAM_BACK_LEFT/n008-2018-08-29-16-04-13-0400__CAM_BACK_LEFT__1535574041047405.jpg",
+                  "CAM_BACK_RIGHT": "data/nuscenes/samples/CAM_BACK_RIGHT/n008-2018-08-29-16-04-13-0400__CAM_BACK_RIGHT__1535574041028113.jpg"
+            }
+      ],
+	  [
+            {
+                  "Q": "What is the observed status of object <c3,CAM_FRONT_RIGHT,647.7,510.0>?",
+                  "A": "Moving.",
+                  "C": null,
+                  "con_up": null,
+                  "con_down": null,
+                  "cluster": null,
+                  "layer": null
+            },
+            {
+                  "CAM_FRONT": "data/nuscenes/samples/CAM_FRONT/n008-2018-08-29-16-04-13-0400__CAM_FRONT__1535573953512404.jpg",
+                  "CAM_FRONT_LEFT": "data/nuscenes/samples/CAM_FRONT_LEFT/n008-2018-08-29-16-04-13-0400__CAM_FRONT_LEFT__1535573953504799.jpg",
+                  "CAM_FRONT_RIGHT": "data/nuscenes/samples/CAM_FRONT_RIGHT/n008-2018-08-29-16-04-13-0400__CAM_FRONT_RIGHT__1535573953520482.jpg",
+                  "CAM_BACK": "data/nuscenes/samples/CAM_BACK/n008-2018-08-29-16-04-13-0400__CAM_BACK__1535573953537558.jpg",
+                  "CAM_BACK_LEFT": "data/nuscenes/samples/CAM_BACK_LEFT/n008-2018-08-29-16-04-13-0400__CAM_BACK_LEFT__1535573953547405.jpg",
+                  "CAM_BACK_RIGHT": "data/nuscenes/samples/CAM_BACK_RIGHT/n008-2018-08-29-16-04-13-0400__CAM_BACK_RIGHT__1535573953528113.jpg"
+            }
+      ]
+]
