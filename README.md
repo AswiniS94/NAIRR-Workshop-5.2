@@ -1,5 +1,4 @@
-# NAIRR-Workshop 5.2
-# Lecture 09 - Case Study: Robotics and Cybersecurity
+# NAIRR-Workshop 5.2 - Case Study: Robotics and Cybersecurity
 
 ## Overview
 
